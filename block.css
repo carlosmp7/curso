@@ -1,0 +1,46 @@
+#titulo {
+    background-color: rgb(237, 11, 11);
+    text-align: center;
+    height: 10%;
+    margin-bottom: 10px;
+}
+
+#part1 {
+    background-color: rgb(249, 240, 3);
+    float: left;
+    width: 30%;
+    height: 80%;
+    margin-right: 30px;
+}
+
+#imagen {
+    text-align: center;
+    padding-top: 45px;
+    width: "100%";
+}
+
+#part2 {
+    background-color: rgb(111, 198, 216); 
+    float: right;
+    width: 900px;
+    height: 400px;   
+
+}
+
+#texto {
+    height: 400px; 
+}
+
+span {                  /*para sub*/
+    background-color: rgb(202, 243, 38);
+}
+
+p {
+    font-size: 24px;
+}
+
+footer {            /*pie*/
+    background-color: rgb(250, 4, 250);
+    height: 90px;
+    text-align: center;
+}
